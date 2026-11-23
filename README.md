@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Andrew Rober Fouad Samy — ML & High-Performance Systems Researcher" width="100%" />
+  <img src="assets/header.svg" alt="Andrew Rober — ML & High-Performance Systems Researcher" width="100%" />
 
   <br />
 
