@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="100%" height="270" role="img" aria-label="Andrew Rober Fouad Samy — ML and High-Performance Systems Research">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111c33"/>
+      <stop offset="100%" stop-color="#0d2238"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="curveA" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.0"/>
+      <stop offset="45%" stop-color="#10b981" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.78"/>
+    </linearGradient>
+    <linearGradient id="curveB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.0"/>
+      <stop offset="60%" stop-color="#818cf8" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0.60"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#334155" stroke-width="0.6" stroke-opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <!-- Rounded Card Frame -->
+  <rect x="2" y="2" width="1196" height="266" rx="16" fill="url(#bg)" stroke="#1e293b" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="266" rx="16" fill="url(#grid)"/>
+
+  <!-- Subtle Mathematical Spectral / Pareto Curves on Right -->
+  <path d="M 640 235 Q 810 225, 915 145 T 1175 58" fill="none" stroke="url(#curveA)" stroke-width="3"/>
+  <path d="M 680 245 Q 860 238, 965 178 T 1175 112" fill="none" stroke="url(#curveB)" stroke-width="2.2" stroke-dasharray="6,5"/>
+  <circle cx="915" cy="145" r="4.5" fill="#10b981"/>
+  <circle cx="1055" cy="86" r="4.5" fill="#38bdf8"/>
+  <circle cx="1145" cy="64" r="5" fill="#e2e8f0"/>
+
+  <!-- Formula Watermark -->
+  <text x="1152" y="44" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#64748b" opacity="0.75">
+    W_P = (1/|P|) Σ W_t + Δ_P   ·   D_bind = JSD(A_start || A_end)
+  </text>
+
+  <!-- Top Accent Bar -->
+  <rect x="56" y="46" width="84" height="4" rx="2" fill="url(#accentLine)"/>
+
+  <!-- Name & Headline -->
+  <text x="56" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="#f8fafc" letter-spacing="-0.5">
+    Andrew Rober Fouad Samy
+  </text>
+
+  <text x="56" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="18.5" font-weight="600" fill="#38bdf8">
+    Machine Learning &amp; High-Performance Systems Researcher  ·  BytesGlue
+  </text>
+
+  <text x="56" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" fill="#cbd5e1">
+    LLM Pretraining &amp; Tokenization  ·  Mechanistic Interpretability  ·  High-Dimensional Statistics  ·  GPU &amp; SIMD Systems
+  </text>
+
+  <!-- Pill Tags -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600">
+    <rect x="56" y="196" width="168" height="30" rx="15" fill="#0f292e" stroke="#10b981" stroke-width="1"/>
+    <text x="140" y="215" text-anchor="middle" fill="#34d399">PyTorch · CUDA · FP8</text>
+
+    <rect x="236" y="196" width="218" height="30" rx="15" fill="#13233a" stroke="#38bdf8" stroke-width="1"/>
+    <text x="345" y="215" text-anchor="middle" fill="#7dd3fc">Transformers &amp; Tokenizers</text>
+
+    <rect x="466" y="196" width="206" height="30" rx="15" fill="#1e1b38" stroke="#818cf8" stroke-width="1"/>
+    <text x="569" y="215" text-anchor="middle" fill="#a5b4fc">RMT · MDL · Optimization</text>
+
+    <rect x="684" y="196" width="168" height="30" rx="15" fill="#272017" stroke="#f59e0b" stroke-width="1"/>
+    <text x="768" y="215" text-anchor="middle" fill="#fcd34d">C# / .NET 8 SIMD</text>
+  </g>
+</svg>
