@@ -38,6 +38,17 @@ I design **mathematically grounded machine learning algorithms** and **bare-meta
 
 ---
 
+### Open-Source AI Safety & Systems Engineering Libraries
+
+| Repository | Description | Stack |
+| :--- | :--- | :---: |
+| **[CodexCli-GuardRails](https://github.com/AndrewRober/CodexCli-GuardRails)** | Deterministic action-risk classification, workspace containment, secret redaction, and tamper-evident approval gates for AI coding agents via **MCP Server** (`mcp-server/`) and multi-agent `SKILL.md` policies. | `Python` · `MCP` · `AI Safety` |
+| **[SIMD-Tutorial-Benchmark](https://github.com/AndrewRober/SIMD-Tutorial-Benchmark)** | Hardware-accelerated C# / `.NET` SIMD vectorization benchmarks and throughput profiling. | `C#` · `.NET SIMD` |
+| **[SortIO](https://github.com/AndrewRober/SortIO)** | Lightweight C# sorting library implementing 30+ classical and hybrid sorting algorithms with test suites. | `C#` · `Algorithms` |
+| **[Aurora-Samples](https://github.com/AndrewRober/Aurora-Samples)** | Reference integration projects and healthcare EDI/HIPAA workflows for HIPAAsuite Aurora libraries. | `C#` · `.NET` |
+
+---
+
 ### Technical Stack & Hardware Environments
 
 - **Deep Learning & LLM Pretraining:** `PyTorch 2.x`, `torch.compile` (Inductor / Triton), `FlashAttention`, Fused Chunked Cross-Entropy, Custom Activation/Gradient Hooks, `HuggingFace Tokenizers` & `Datasets`
