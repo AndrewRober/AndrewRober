@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/header.png" alt="Andrew Rober — ML & High-Performance Systems Researcher" width="100%" />
   <br /><br />
+  <a href="https://andrewrober.github.io/"><img src="https://img.shields.io/badge/Research%20Portal-andrewrober.github.io-38bdf8?style=flat-square" alt="Research Portal" /></a>
   <a href="https://www.linkedin.com/in/andrew-rober/"><img src="https://img.shields.io/badge/LinkedIn-Andrew%20Rober-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://huggingface.co/AndrewR123"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Models%20%26%20Spaces-ffb000?style=flat-square" alt="HuggingFace" /></a>
   <a href="mailto:andrew.rober@bytesglue.com"><img src="https://img.shields.io/badge/Email-andrew.rober%40bytesglue.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
