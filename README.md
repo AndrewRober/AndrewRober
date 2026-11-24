@@ -13,6 +13,8 @@
 
 I design **mathematically grounded machine learning algorithms** and **bare-metal GPU / SIMD systems**—focusing on structural bottlenecks in **LLM pretraining & tokenization**, **mechanistic interpretability**, **non-asymptotic high-dimensional statistics**, and **stochastic optimization**. Every research release pairs closed-form theoretical guarantees with reproducible from-scratch PyTorch/CUDA and vectorized `.NET` implementations.
 
+> **Open to Opportunities & Collaboration:** Available for **Senior Research Engineer / Member of Technical Staff (LLM Pretraining, Post-Training RLVR, Inference & Systems)** roles and high-impact AI/systems consulting (Dubai, UAE · Remote · Relocation) — reach me directly at **[andrew.rober@bytesglue.com](mailto:andrew.rober@bytesglue.com)**.
+
 ---
 
 ### Selected Research Papers & Open-Source Implementations
